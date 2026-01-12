@@ -46,10 +46,7 @@ sudo apt-get install mpg123 yad whiptail
 Scripti doğrudan indirebilir veya klonlayabilirsiniz:
 
 ```bash
-# Scripti indirme (wget ile)
-wget https://raw.githubusercontent.com/MrDolphin-gud/Mp3-Player-for-Pardus-OS/pardus_oynatici.sh
-
-# Veya curl ile
+# curl ile
 curl -O https://raw.githubusercontent.com/MrDolphin-gud/Mp3-Player-for-Pardus-OS/pardus_oynatici.sh
 ```
 
@@ -277,6 +274,7 @@ MP3 çalar kurulu değilse:
 ```bash
 sudo apt-get install mpg123
 ```
+
 
 
 
