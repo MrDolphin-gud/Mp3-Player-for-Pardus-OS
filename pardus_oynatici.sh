@@ -35,7 +35,7 @@ onceki_sarki() {
     SIMDI=$(date +%s)
     GECEN_SURE=$((SIMDI - BASLANGIC_ZAMANI))
 
-    if [ "$SUAN_INDEX" -eq 0 ] || [ "$GECEN_SURE" -gt 3 ]; then
+    if [ "$SUAN_INDEX" -eq 0 ] || [ "$GECEN_SURE" -gt 5 ]; then
         muzik_baslat
     else
         ((SUAN_INDEX--))
