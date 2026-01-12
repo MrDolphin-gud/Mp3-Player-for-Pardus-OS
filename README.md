@@ -1,6 +1,6 @@
 # Pardus Oynatıcı 
 
-Pardus Linux için geliştirilmiş, hem grafik hem de terminal arayüzü sunan basit ve kullanışlı bir müzik çalar uygulaması.
+Pardus Linux için geliştirilmiş hem grafik hem de terminal arayüzü sunan basit ve kullanışlı bir müzik çalar uygulaması.
 
 ## Kılavuz Videosu
 
@@ -73,7 +73,7 @@ chmod +x pardus_oynatici.sh
 
 ### Başlangıç
 
-Scripti çalıştırdığınızda, önce arayüz seçim menüsü açılır:
+Scripti çalıştırdığınızda önce arayüz seçim menüsü açılır:
 
 ![Arayüz Seçim Menüsü](images/Ekran%20görüntüsü%202026-01-12%20152134.png)
 
@@ -277,5 +277,6 @@ MP3 çalar kurulu değilse:
 ```bash
 sudo apt-get install mpg123
 ```
+
 
 
