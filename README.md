@@ -33,8 +33,8 @@ Bu scriptin çalışması için aşağıdaki paketlerin yüklü olması gerekmek
 Gerekli paketleri kurmak için aşağıdaki komutu çalıştırın:
 
 ```bash
-sudo apt-get update
-sudo apt-get install mpg123 yad whiptail
+sudo apt update
+sudo apt install mpg123 yad whiptail
 ```
 
 ![Paket Kurulumu](images/Ekran%20görüntüsü%202026-01-12%20151950.png)
@@ -274,6 +274,7 @@ MP3 çalar kurulu değilse:
 ```bash
 sudo apt-get install mpg123
 ```
+
 
 
 
